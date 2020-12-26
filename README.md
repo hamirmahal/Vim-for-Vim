@@ -70,7 +70,7 @@ VISUAL MODE (`y`)-> NORMAL MODE
 # Normal Mode
 > Normal mode is home, and that's where you should be most of the time.
 
-— <cite>[39:44 mark of Lecture 3: Editors (vim) (2020) by Missing Semester](https://youtu.be/a6Q8Na575qc?t=2384)</cite>
+— <cite>[Anish, at the 39:44 mark of Lecture 3: Editors (vim) (2020) by Missing Semester](https://youtu.be/a6Q8Na575qc?t=2384)</cite>
 
 `b` moves the cursor backward by one word.
 
