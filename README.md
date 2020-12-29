@@ -55,13 +55,13 @@ VISUAL MODE (`y`)-> NORMAL MODE
 - Entering normal mode from visual mode this way copies all of the text highlighted in visual mode.
 
 # Command Line Mode
-`q` quit
+`q` quits.
 
-`qa` quit all
+`qa` quits all.
 
-`q`! force quit
+`q`! force quits.
 
-`qa!` force quit all
+`qa!` force quits all.
 
 `sp` opens a new window in the current tab.
 
