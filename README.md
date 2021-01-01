@@ -67,6 +67,8 @@ VISUAL MODE (`y`)-> NORMAL MODE
 
 `tabnew` opens a new tab.
 
+![screen recording of `tabnew` command by Hamir](tabnew_command.gif)
+
 # Normal Mode
 > Normal mode is home, and that's where you should be most of the time.
 
