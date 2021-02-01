@@ -33,6 +33,7 @@ NORMAL MODE (`:`)-> "COMMAND LINE" MODE
 
 NORMAL MODE (`c`)-> INSERT MODE
 - `c` is followed by its argument, which I think must be a movement command. This command deletes in the direction of the movement command.
+    - `c` can take `i`, followed by `[`, `(`, `{`, or `"` when inside square brackets, parentheses, curly braces, or quotation marks respectively, to modify the contents inside the square brackets, parentheses, curly braces, or quotation marks.
 
 NORMAL MODE (`cc`)-> INSERT MODE
 - This command also deletes the current line if it is nonempty.
