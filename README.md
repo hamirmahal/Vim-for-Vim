@@ -122,6 +122,8 @@ VISUAL MODE (`y`)-> NORMAL MODE
 
 `$` moves the cursor to the end of a line.
 
+`%` moves the cursor between matching opening and closing parantheses, square brackets, and curly braces.
+
 `^` moves the cursor to the first nonempty character on a line.
 
 `dd` deletes the current line.
